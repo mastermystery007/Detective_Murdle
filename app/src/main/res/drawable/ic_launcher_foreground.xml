@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Red Target Reticle Center -->
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#E53935"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54 18 L 54 90 M 18 54 L 90 54" />
+        
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#E53935"
+        android:fillColor="#00000000"
+        android:pathData="M 28 54 A 26 26 0 1 1 27.99 54" />
+
+    <!-- Magnifying Glass Outline (Gold) -->
+    <path
+        android:strokeWidth="5"
+        android:strokeColor="#FFB300"
+        android:strokeLineCap="round"
+        android:fillColor="#15FFB300"
+        android:pathData="M 54 36 A 18 18 0 1 1 53.99 36" />
+        
+    <!-- Glass Handle (Gold) -->
+    <path
+        android:strokeWidth="7"
+        android:strokeColor="#FFB300"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 41 67 L 22 86" />
+        
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFB300"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 39 71 L 28 82" />
+        
+    <!-- Cybernetic detective details (Fingerprint ribs in lower-right) -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#29B6F6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 72 72 Q 80 80 82 90 M 76 68 Q 84 80 88 84" />
+</vector>

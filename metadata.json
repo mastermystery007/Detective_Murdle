@@ -1,0 +1,6 @@
+{
+  "name": "Detective Logic Grid",
+  "description": "Solve logic grid riddles on an interactive grid, track clues, find lies, and catch suspects in an atmospheric noir theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
